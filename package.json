@@ -1,0 +1,15 @@
+{
+  "name": "antisticker",
+  "version": "1.0.0",
+  "description": "A simple bot to delete stickers from discord channels",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DanPlayz",
+  "license": "MIT"
+}
