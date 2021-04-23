@@ -1,5 +1,4 @@
-# AntiSticker
-A simple bot to delete stickers from discord channels
+![](https://discord.mx/wYXWC21SK8.jpg)
 
 ## Self Hosting (Quick Setup)
 
