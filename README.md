@@ -1,4 +1,4 @@
-![](https://discord.mx/wYXWC21SK8.jpg)
+![](https://discord.mx/mrRZNmFInC.png)
 
 ## Self Hosting (Quick Setup)
 
